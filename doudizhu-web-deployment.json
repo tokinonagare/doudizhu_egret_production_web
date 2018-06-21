@@ -1,0 +1,50 @@
+{
+  "apiVersion": "apps/v1beta2",
+  "kind": "Deployment",
+  "metadata": {
+    "name": "doudizhu-web-server",
+    "labels": {
+      "app": "doudizhu-web",
+      "chart": "doudizhu-web-1.0",
+      "release": "doudizhu-web",
+      "heritage": "Tiller",
+      "component": "server"
+    }
+  },
+  "spec": {
+    "replicas": 1,
+    "strategy": {
+      "type": "Recreate"
+    },
+    "selector": {
+      "matchLabels": {
+        "app": "doudizhu-web",
+        "release": "doudizhu-web",
+        "component": "server"
+      }
+    },
+    "template": {
+      "metadata": {
+        "labels": {
+          "app": "doudizhu-web",
+          "release": "doudizhu-web",
+          "component": "server"
+        }
+      },
+      "spec": {
+        "containers": [
+          {
+            "name": "doudizhu-web-server",
+            "image": "#{image}",
+            "imagePullPolicy": "IfNotPresent",
+            "ports": [
+              {
+                "containerPort": 80
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
