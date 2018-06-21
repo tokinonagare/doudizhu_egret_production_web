@@ -1,0 +1,1230 @@
+{
+	"groups": [
+		{
+			"keys": "app_version_json,warning_light_json,warning_light_png,bg_launch_game@2x_jpg,bg_progress_bar@2x_png,fg_progress_bar@2x_png,iap_id_config_json",
+			"name": "ddz_launch_game"
+		},
+		{
+			"keys": "btn_click_mp3,ddz_not_play_game_music_mp3",
+			"name": "ddz_common_music"
+		},
+		{
+			"keys": "grab_1_point_mp3,grab_2_point_mp3,grab_3_point_mp3,grab_bu_jiao_mp3,grab_jiao_di_zhu_mp3,poker_10_mp3,poker_1010_mp3,poker_101010_mp3,poker_2_mp3,poker_22_mp3,poker_222_mp3,poker_3_mp3,poker_33_mp3,poker_333_mp3,poker_3_take_1_mp3,poker_3_take_2_mp3,poker_4_mp3,poker_44_mp3,poker_444_mp3,poker_4_take_2_mp3,poker_4_take_4_mp3,poker_5_mp3,poker_55_mp3,poker_555_mp3,poker_6_mp3,poker_66_mp3,poker_666_mp3,poker_7_mp3,poker_77_mp3,poker_777_mp3,poker_8_mp3,poker_88_mp3,poker_888_mp3,poker_9_mp3,poker_99_mp3,poker_999_mp3,poker_A_mp3,poker_AA_mp3,poker_AAA_mp3,poker_J_mp3,poker_JJ_mp3,poker_JJJ_mp3,poker_K_mp3,poker_KK_mp3,poker_KKK_mp3,poker_Q_mp3,poker_QQ_mp3,poker_QQQ_mp3,poker_airplane_mp3,poker_black_joker_mp3,poker_bomb_mp3,poker_consecutive_pairs_mp3,poker_huo_jian_mp3,poker_red_joker_mp3,poker_straight_mp3,quick_bpsyydds_mp3,quick_byc_mp3,quick_byhwq_mp3,quick_byz_mp3,quick_hwdnhlld_mp3,quick_jgpyb_mp3,quick_kdb_mp3,quick_ndpyddthl_mp3,quick_pyldsh_mp3,quick_wj1zpl_mp3,quick_wj2zpl_mp3,quick_xxkkjsn_mp3,voice_bu_yao_mp3,voice_da_ni_mp3,voice_guan_shang_mp3,voice_guo_mp3,voice_ming_pai_mp3,voice_yao_bu_qi_mp3,ddz_play_game_music_mp3,male_grab_1_point_mp3,male_grab_2_point_mp3,male_grab_3_point_mp3,male_grab_bu_jiao_mp3,male_grab_jiao_di_zhu_mp3,male_poker_10_mp3,male_poker_1010_mp3,male_poker_101010_mp3,male_poker_2_mp3,male_poker_22_mp3,male_poker_222_mp3,male_poker_3_mp3,male_poker_33_mp3,male_poker_333_mp3,male_poker_3_take_1_mp3,male_poker_3_take_2_mp3,male_poker_4_mp3,male_poker_44_mp3,male_poker_444_mp3,male_poker_4_take_2_mp3,male_poker_4_take_4_mp3,male_poker_5_mp3,male_poker_55_mp3,male_poker_555_mp3,male_poker_6_mp3,male_poker_66_mp3,male_poker_666_mp3,male_poker_7_mp3,male_poker_77_mp3,male_poker_777_mp3,male_poker_8_mp3,male_poker_88_mp3,male_poker_888_mp3,male_poker_9_mp3,male_poker_99_mp3,male_poker_999_mp3,male_poker_A_mp3,male_poker_AA_mp3,male_poker_AAA_mp3,male_poker_J_mp3,male_poker_JJ_mp3,male_poker_JJJ_mp3,male_poker_K_mp3,male_poker_KK_mp3,male_poker_KKK_mp3,male_poker_Q_mp3,male_poker_QQ_mp3,male_poker_QQQ_mp3,male_poker_airplane_mp3,male_poker_black_joker_mp3,male_poker_bomb_mp3,male_poker_consecutive_pairs_mp3,male_poker_huo_jian_mp3,male_poker_red_joker_mp3,male_poker_straight_mp3,male_quick_bpsyydds_mp3,male_quick_byc_mp3,male_quick_byhwq_mp3,male_quick_byz_mp3,male_quick_hwdnhlld_mp3,male_quick_jgpyb_mp3,male_quick_kdb_mp3,male_quick_ndpyddthl_mp3,male_quick_pyldsh_mp3,male_quick_wj1zpl_mp3,male_quick_wj2zpl_mp3,male_quick_xxkkjsn_mp3,male_voice_bu_yao_mp3,male_voice_da_ni_mp3,male_voice_guan_shang_mp3,male_voice_guo_mp3,male_voice_ming_pai_mp3,male_voice_yao_bu_qi_mp3,ddz_send_card_mp3,ddz_choose_card_mp3",
+			"name": "ddz_other_music"
+		},
+		{
+			"keys": "btn_popup_close@2x_png,btn_popup_close_on@2x_png,btn_gray_popup_close@2x_png,btn_gray_popup_close_on@2x_png,btn_goods_add@2x_png,btn_back@2x_png,btn_back_on@2x_png,bg_popup_alert@2x_png,btn_alert_cancel@2x_png,btn_alert_cancel_on@2x_png,btn_alert_ok@2x_png,btn_alert_ok_on@2x_png,btn_alert_quit@2x_png,btn_alert_quit_on@2x_png,img_loading_circle@2x_png,img_loading_spade@2x_png",
+			"name": "ddz_common_image"
+		},
+		{
+			"keys": "img_wrong_card_type_png,btn_call_landlord_1@2x_png,btn_call_landlord_1_disable@2x_png,btn_call_landlord_1_on@2x_png,btn_call_landlord_2@2x_png,btn_call_landlord_2_disable@2x_png,btn_call_landlord_2_on@2x_png,btn_call_landlord_3@2x_png,btn_call_landlord_3_disable@2x_png,btn_call_landlord_3_on@2x_png,btn_hint@2x_png,btn_hint_on@2x_png,btn_not_call_landlord@2x_png,btn_not_play@2x_png,btn_not_play_on@2x_png,btn_play@2x_png,btn_play_disable@2x_png,btn_play_on@2x_png,btn_show_cards_start_game@2x_png,btn_show_cards_start_game_on@2x_png,btn_start_game@2x_png,btn_start_game_on@2x_png,btn_yao_bu_qi@2x_png,btn_yao_bu_qi_on@2x_png,bg_play_game@2x_jpg,img_two_point@2x_png,img_three_point@2x_png,img_one_point@2x_png,img_not_play@2x_png,img_not_call_landlord@2x_png,img_not_add_times@2x_png,img_no_bigger_cards@2x_png,img_add_times@2x_png,img_wait_for_starting_png,bg_invite_player@2x_png,btn_invite_player_to_wechat@2x_png,image_copy_complete@2x_png,img_game_default_avatar@2x_png,img_room_hat@2x_png,img_active_player_sign@2x_png,btn_continue@2x_png,btn_invite@2x_png,btn_invite_on@2x_png,btn_not_call_landlord_on@2x_png,btn_continue_game@2x_png,btn_continue_game_on@2x_png,btn_invite_player_to_qq@2x_png,played_pokers_json,pockers_json",
+			"name": "ddz_play_game_image"
+		},
+		{
+			"keys": "img_settings_switch_off@2x_png,img_settings_switch_on@2x_png,bg_settings@2x_png",
+			"name": "ddz_settings_image"
+		},
+		{
+			"keys": "bg_userinfo@2x_png,img_userinfo_avatar_border@2x_png,img_userinfo_default_avatar@2x_png,img_userinfo_female@2x_png,img_userinfo_male@2x_png,btn_userinfo_radio@2x_png,btn_userinfo_radio_on@2x_png,bg_userinfo_edit@2x_png,bg_userinfo_textinput@2x_png,btn_userinfo_textinput_clean@2x_png",
+			"name": "ddz_user_info_image"
+		},
+		{
+			"keys": "",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "sound/ddz/Common/btn_click.mp3",
+			"type": "sound",
+			"name": "btn_click_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/grab_1_point.mp3",
+			"type": "sound",
+			"name": "grab_1_point_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/grab_2_point.mp3",
+			"type": "sound",
+			"name": "grab_2_point_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/grab_3_point.mp3",
+			"type": "sound",
+			"name": "grab_3_point_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/grab_bu_jiao.mp3",
+			"type": "sound",
+			"name": "grab_bu_jiao_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/grab_jiao_di_zhu.mp3",
+			"type": "sound",
+			"name": "grab_jiao_di_zhu_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_10.mp3",
+			"type": "sound",
+			"name": "poker_10_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_1010.mp3",
+			"type": "sound",
+			"name": "poker_1010_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_101010.mp3",
+			"type": "sound",
+			"name": "poker_101010_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_2.mp3",
+			"type": "sound",
+			"name": "poker_2_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_22.mp3",
+			"type": "sound",
+			"name": "poker_22_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_222.mp3",
+			"type": "sound",
+			"name": "poker_222_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_3.mp3",
+			"type": "sound",
+			"name": "poker_3_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_33.mp3",
+			"type": "sound",
+			"name": "poker_33_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_333.mp3",
+			"type": "sound",
+			"name": "poker_333_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_3_take_1.mp3",
+			"type": "sound",
+			"name": "poker_3_take_1_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_3_take_2.mp3",
+			"type": "sound",
+			"name": "poker_3_take_2_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_4.mp3",
+			"type": "sound",
+			"name": "poker_4_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_44.mp3",
+			"type": "sound",
+			"name": "poker_44_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_444.mp3",
+			"type": "sound",
+			"name": "poker_444_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_4_take_2.mp3",
+			"type": "sound",
+			"name": "poker_4_take_2_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_4_take_4.mp3",
+			"type": "sound",
+			"name": "poker_4_take_4_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_5.mp3",
+			"type": "sound",
+			"name": "poker_5_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_55.mp3",
+			"type": "sound",
+			"name": "poker_55_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_555.mp3",
+			"type": "sound",
+			"name": "poker_555_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_6.mp3",
+			"type": "sound",
+			"name": "poker_6_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_66.mp3",
+			"type": "sound",
+			"name": "poker_66_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_666.mp3",
+			"type": "sound",
+			"name": "poker_666_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_7.mp3",
+			"type": "sound",
+			"name": "poker_7_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_77.mp3",
+			"type": "sound",
+			"name": "poker_77_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_777.mp3",
+			"type": "sound",
+			"name": "poker_777_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_8.mp3",
+			"type": "sound",
+			"name": "poker_8_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_88.mp3",
+			"type": "sound",
+			"name": "poker_88_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_888.mp3",
+			"type": "sound",
+			"name": "poker_888_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_9.mp3",
+			"type": "sound",
+			"name": "poker_9_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_99.mp3",
+			"type": "sound",
+			"name": "poker_99_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_999.mp3",
+			"type": "sound",
+			"name": "poker_999_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_A.mp3",
+			"type": "sound",
+			"name": "poker_A_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_AA.mp3",
+			"type": "sound",
+			"name": "poker_AA_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_AAA.mp3",
+			"type": "sound",
+			"name": "poker_AAA_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_J.mp3",
+			"type": "sound",
+			"name": "poker_J_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_JJ.mp3",
+			"type": "sound",
+			"name": "poker_JJ_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_JJJ.mp3",
+			"type": "sound",
+			"name": "poker_JJJ_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_K.mp3",
+			"type": "sound",
+			"name": "poker_K_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_KK.mp3",
+			"type": "sound",
+			"name": "poker_KK_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_KKK.mp3",
+			"type": "sound",
+			"name": "poker_KKK_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_Q.mp3",
+			"type": "sound",
+			"name": "poker_Q_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_QQ.mp3",
+			"type": "sound",
+			"name": "poker_QQ_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_QQQ.mp3",
+			"type": "sound",
+			"name": "poker_QQQ_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_airplane.mp3",
+			"type": "sound",
+			"name": "poker_airplane_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_black_joker.mp3",
+			"type": "sound",
+			"name": "poker_black_joker_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_bomb.mp3",
+			"type": "sound",
+			"name": "poker_bomb_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_consecutive_pairs.mp3",
+			"type": "sound",
+			"name": "poker_consecutive_pairs_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_huo_jian.mp3",
+			"type": "sound",
+			"name": "poker_huo_jian_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_red_joker.mp3",
+			"type": "sound",
+			"name": "poker_red_joker_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/poker_straight.mp3",
+			"type": "sound",
+			"name": "poker_straight_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/quick_bpsyydds.mp3",
+			"type": "sound",
+			"name": "quick_bpsyydds_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/quick_byc.mp3",
+			"type": "sound",
+			"name": "quick_byc_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/quick_byhwq.mp3",
+			"type": "sound",
+			"name": "quick_byhwq_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/quick_byz.mp3",
+			"type": "sound",
+			"name": "quick_byz_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/quick_hwdnhlld.mp3",
+			"type": "sound",
+			"name": "quick_hwdnhlld_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/quick_jgpyb.mp3",
+			"type": "sound",
+			"name": "quick_jgpyb_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/quick_kdb.mp3",
+			"type": "sound",
+			"name": "quick_kdb_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/quick_ndpyddthl.mp3",
+			"type": "sound",
+			"name": "quick_ndpyddthl_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/quick_pyldsh.mp3",
+			"type": "sound",
+			"name": "quick_pyldsh_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/quick_wj1zpl.mp3",
+			"type": "sound",
+			"name": "quick_wj1zpl_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/quick_wj2zpl.mp3",
+			"type": "sound",
+			"name": "quick_wj2zpl_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/quick_xxkkjsn.mp3",
+			"type": "sound",
+			"name": "quick_xxkkjsn_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/voice_bu_yao.mp3",
+			"type": "sound",
+			"name": "voice_bu_yao_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/voice_da_ni.mp3",
+			"type": "sound",
+			"name": "voice_da_ni_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/voice_guan_shang.mp3",
+			"type": "sound",
+			"name": "voice_guan_shang_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/voice_guo.mp3",
+			"type": "sound",
+			"name": "voice_guo_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/voice_ming_pai.mp3",
+			"type": "sound",
+			"name": "voice_ming_pai_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/PlayCard/voice_yao_bu_qi.mp3",
+			"type": "sound",
+			"name": "voice_yao_bu_qi_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/ddz_play_game_music.mp3",
+			"type": "sound",
+			"name": "ddz_play_game_music_mp3"
+		},
+		{
+			"url": "sound/ddz/Common/ddz_not_play_game_music.mp3",
+			"type": "sound",
+			"name": "ddz_not_play_game_music_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_grab_1_point.mp3",
+			"type": "sound",
+			"name": "male_grab_1_point_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_grab_2_point.mp3",
+			"type": "sound",
+			"name": "male_grab_2_point_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_grab_3_point.mp3",
+			"type": "sound",
+			"name": "male_grab_3_point_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_grab_bu_jiao.mp3",
+			"type": "sound",
+			"name": "male_grab_bu_jiao_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_grab_jiao_di_zhu.mp3",
+			"type": "sound",
+			"name": "male_grab_jiao_di_zhu_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_10.mp3",
+			"type": "sound",
+			"name": "male_poker_10_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_1010.mp3",
+			"type": "sound",
+			"name": "male_poker_1010_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_101010.mp3",
+			"type": "sound",
+			"name": "male_poker_101010_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_2.mp3",
+			"type": "sound",
+			"name": "male_poker_2_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_22.mp3",
+			"type": "sound",
+			"name": "male_poker_22_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_222.mp3",
+			"type": "sound",
+			"name": "male_poker_222_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_3.mp3",
+			"type": "sound",
+			"name": "male_poker_3_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_33.mp3",
+			"type": "sound",
+			"name": "male_poker_33_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_333.mp3",
+			"type": "sound",
+			"name": "male_poker_333_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_3_take_1.mp3",
+			"type": "sound",
+			"name": "male_poker_3_take_1_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_3_take_2.mp3",
+			"type": "sound",
+			"name": "male_poker_3_take_2_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_4.mp3",
+			"type": "sound",
+			"name": "male_poker_4_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_44.mp3",
+			"type": "sound",
+			"name": "male_poker_44_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_444.mp3",
+			"type": "sound",
+			"name": "male_poker_444_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_4_take_2.mp3",
+			"type": "sound",
+			"name": "male_poker_4_take_2_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_4_take_4.mp3",
+			"type": "sound",
+			"name": "male_poker_4_take_4_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_5.mp3",
+			"type": "sound",
+			"name": "male_poker_5_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_55.mp3",
+			"type": "sound",
+			"name": "male_poker_55_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_555.mp3",
+			"type": "sound",
+			"name": "male_poker_555_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_6.mp3",
+			"type": "sound",
+			"name": "male_poker_6_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_66.mp3",
+			"type": "sound",
+			"name": "male_poker_66_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_666.mp3",
+			"type": "sound",
+			"name": "male_poker_666_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_7.mp3",
+			"type": "sound",
+			"name": "male_poker_7_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_77.mp3",
+			"type": "sound",
+			"name": "male_poker_77_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_777.mp3",
+			"type": "sound",
+			"name": "male_poker_777_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_8.mp3",
+			"type": "sound",
+			"name": "male_poker_8_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_88.mp3",
+			"type": "sound",
+			"name": "male_poker_88_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_888.mp3",
+			"type": "sound",
+			"name": "male_poker_888_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_9.mp3",
+			"type": "sound",
+			"name": "male_poker_9_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_99.mp3",
+			"type": "sound",
+			"name": "male_poker_99_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_999.mp3",
+			"type": "sound",
+			"name": "male_poker_999_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_A.mp3",
+			"type": "sound",
+			"name": "male_poker_A_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_AA.mp3",
+			"type": "sound",
+			"name": "male_poker_AA_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_AAA.mp3",
+			"type": "sound",
+			"name": "male_poker_AAA_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_J.mp3",
+			"type": "sound",
+			"name": "male_poker_J_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_JJ.mp3",
+			"type": "sound",
+			"name": "male_poker_JJ_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_JJJ.mp3",
+			"type": "sound",
+			"name": "male_poker_JJJ_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_K.mp3",
+			"type": "sound",
+			"name": "male_poker_K_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_KK.mp3",
+			"type": "sound",
+			"name": "male_poker_KK_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_KKK.mp3",
+			"type": "sound",
+			"name": "male_poker_KKK_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_Q.mp3",
+			"type": "sound",
+			"name": "male_poker_Q_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_QQ.mp3",
+			"type": "sound",
+			"name": "male_poker_QQ_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_QQQ.mp3",
+			"type": "sound",
+			"name": "male_poker_QQQ_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_airplane.mp3",
+			"type": "sound",
+			"name": "male_poker_airplane_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_black_joker.mp3",
+			"type": "sound",
+			"name": "male_poker_black_joker_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_bomb.mp3",
+			"type": "sound",
+			"name": "male_poker_bomb_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_consecutive_pairs.mp3",
+			"type": "sound",
+			"name": "male_poker_consecutive_pairs_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_huo_jian.mp3",
+			"type": "sound",
+			"name": "male_poker_huo_jian_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_red_joker.mp3",
+			"type": "sound",
+			"name": "male_poker_red_joker_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_poker_straight.mp3",
+			"type": "sound",
+			"name": "male_poker_straight_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_quick_bpsyydds.mp3",
+			"type": "sound",
+			"name": "male_quick_bpsyydds_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_quick_byc.mp3",
+			"type": "sound",
+			"name": "male_quick_byc_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_quick_byhwq.mp3",
+			"type": "sound",
+			"name": "male_quick_byhwq_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_quick_byz.mp3",
+			"type": "sound",
+			"name": "male_quick_byz_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_quick_hwdnhlld.mp3",
+			"type": "sound",
+			"name": "male_quick_hwdnhlld_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_quick_jgpyb.mp3",
+			"type": "sound",
+			"name": "male_quick_jgpyb_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_quick_kdb.mp3",
+			"type": "sound",
+			"name": "male_quick_kdb_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_quick_ndpyddthl.mp3",
+			"type": "sound",
+			"name": "male_quick_ndpyddthl_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_quick_pyldsh.mp3",
+			"type": "sound",
+			"name": "male_quick_pyldsh_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_quick_wj1zpl.mp3",
+			"type": "sound",
+			"name": "male_quick_wj1zpl_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_quick_wj2zpl.mp3",
+			"type": "sound",
+			"name": "male_quick_wj2zpl_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_quick_xxkkjsn.mp3",
+			"type": "sound",
+			"name": "male_quick_xxkkjsn_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_voice_bu_yao.mp3",
+			"type": "sound",
+			"name": "male_voice_bu_yao_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_voice_da_ni.mp3",
+			"type": "sound",
+			"name": "male_voice_da_ni_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_voice_guan_shang.mp3",
+			"type": "sound",
+			"name": "male_voice_guan_shang_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_voice_guo.mp3",
+			"type": "sound",
+			"name": "male_voice_guo_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_voice_ming_pai.mp3",
+			"type": "sound",
+			"name": "male_voice_ming_pai_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/MalePlayCard/male_voice_yao_bu_qi.mp3",
+			"type": "sound",
+			"name": "male_voice_yao_bu_qi_mp3"
+		},
+		{
+			"url": "config/app_version.json",
+			"type": "json",
+			"name": "app_version_json"
+		},
+		{
+			"url": "assets/PlayGame/img_wrong_card_type.png",
+			"type": "image",
+			"name": "img_wrong_card_type_png"
+		},
+		{
+			"url": "sound/ddz/PlayGame/ddz_send_card.mp3",
+			"type": "sound",
+			"name": "ddz_send_card_mp3"
+		},
+		{
+			"url": "sound/ddz/PlayGame/ddz_choose_card.mp3",
+			"type": "sound",
+			"name": "ddz_choose_card_mp3"
+		},
+		{
+			"url": "assets/PlayGame/MatchPlayer/img_matching_player.png",
+			"type": "image",
+			"name": "img_matching_player_png"
+		},
+		{
+			"url": "assets/Common/warning_light.json",
+			"type": "json",
+			"name": "warning_light_json"
+		},
+		{
+			"url": "assets/Common/warning_light.png",
+			"type": "image",
+			"name": "warning_light_png"
+		},
+		{
+			"url": "assets/LaunchGame/bg_launch_game@2x.jpg",
+			"type": "image",
+			"name": "bg_launch_game@2x_jpg"
+		},
+		{
+			"url": "assets/LaunchGame/bg_progress_bar@2x.png",
+			"type": "image",
+			"name": "bg_progress_bar@2x_png"
+		},
+		{
+			"url": "assets/LaunchGame/fg_progress_bar@2x.png",
+			"type": "image",
+			"name": "fg_progress_bar@2x_png"
+		},
+		{
+			"url": "config/iap_id_config.json",
+			"type": "json",
+			"name": "iap_id_config_json"
+		},
+		{
+			"url": "assets/UserInfo/bg_userinfo@2x.png",
+			"type": "image",
+			"name": "bg_userinfo@2x_png"
+		},
+		{
+			"url": "assets/UserInfo/img_userinfo_avatar_border@2x.png",
+			"type": "image",
+			"name": "img_userinfo_avatar_border@2x_png"
+		},
+		{
+			"url": "assets/UserInfo/img_userinfo_default_avatar@2x.png",
+			"type": "image",
+			"name": "img_userinfo_default_avatar@2x_png"
+		},
+		{
+			"url": "assets/UserInfo/img_userinfo_female@2x.png",
+			"type": "image",
+			"name": "img_userinfo_female@2x_png"
+		},
+		{
+			"url": "assets/UserInfo/img_userinfo_male@2x.png",
+			"type": "image",
+			"name": "img_userinfo_male@2x_png"
+		},
+		{
+			"url": "assets/UserInfo/btn_userinfo_radio@2x.png",
+			"type": "image",
+			"name": "btn_userinfo_radio@2x_png"
+		},
+		{
+			"url": "assets/UserInfo/btn_userinfo_radio_on@2x.png",
+			"type": "image",
+			"name": "btn_userinfo_radio_on@2x_png"
+		},
+		{
+			"url": "assets/UserInfo/bg_userinfo_edit@2x.png",
+			"type": "image",
+			"name": "bg_userinfo_edit@2x_png"
+		},
+		{
+			"url": "assets/UserInfo/bg_userinfo_textinput@2x.png",
+			"type": "image",
+			"name": "bg_userinfo_textinput@2x_png"
+		},
+		{
+			"url": "assets/UserInfo/btn_userinfo_textinput_clean@2x.png",
+			"type": "image",
+			"name": "btn_userinfo_textinput_clean@2x_png"
+		},
+		{
+			"url": "assets/Common/btn_popup_close@2x.png",
+			"type": "image",
+			"name": "btn_popup_close@2x_png"
+		},
+		{
+			"url": "assets/Common/btn_popup_close_on@2x.png",
+			"type": "image",
+			"name": "btn_popup_close_on@2x_png"
+		},
+		{
+			"url": "assets/Common/btn_gray_popup_close@2x.png",
+			"type": "image",
+			"name": "btn_gray_popup_close@2x_png"
+		},
+		{
+			"url": "assets/Common/btn_gray_popup_close_on@2x.png",
+			"type": "image",
+			"name": "btn_gray_popup_close_on@2x_png"
+		},
+		{
+			"url": "assets/Common/btn_goods_add@2x.png",
+			"type": "image",
+			"name": "btn_goods_add@2x_png"
+		},
+		{
+			"url": "assets/Common/btn_back@2x.png",
+			"type": "image",
+			"name": "btn_back@2x_png"
+		},
+		{
+			"url": "assets/Common/btn_back_on@2x.png",
+			"type": "image",
+			"name": "btn_back_on@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Button/btn_call_landlord_1@2x.png",
+			"type": "image",
+			"name": "btn_call_landlord_1@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Button/btn_call_landlord_1_disable@2x.png",
+			"type": "image",
+			"name": "btn_call_landlord_1_disable@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Button/btn_call_landlord_1_on@2x.png",
+			"type": "image",
+			"name": "btn_call_landlord_1_on@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Button/btn_call_landlord_2@2x.png",
+			"type": "image",
+			"name": "btn_call_landlord_2@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Button/btn_call_landlord_2_disable@2x.png",
+			"type": "image",
+			"name": "btn_call_landlord_2_disable@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Button/btn_call_landlord_2_on@2x.png",
+			"type": "image",
+			"name": "btn_call_landlord_2_on@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Button/btn_call_landlord_3@2x.png",
+			"type": "image",
+			"name": "btn_call_landlord_3@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Button/btn_call_landlord_3_disable@2x.png",
+			"type": "image",
+			"name": "btn_call_landlord_3_disable@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Button/btn_call_landlord_3_on@2x.png",
+			"type": "image",
+			"name": "btn_call_landlord_3_on@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Button/btn_hint@2x.png",
+			"type": "image",
+			"name": "btn_hint@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Button/btn_hint_on@2x.png",
+			"type": "image",
+			"name": "btn_hint_on@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Button/btn_not_call_landlord@2x.png",
+			"type": "image",
+			"name": "btn_not_call_landlord@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Button/btn_not_play@2x.png",
+			"type": "image",
+			"name": "btn_not_play@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Button/btn_not_play_on@2x.png",
+			"type": "image",
+			"name": "btn_not_play_on@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Button/btn_play@2x.png",
+			"type": "image",
+			"name": "btn_play@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Button/btn_play_disable@2x.png",
+			"type": "image",
+			"name": "btn_play_disable@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Button/btn_play_on@2x.png",
+			"type": "image",
+			"name": "btn_play_on@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Button/btn_show_cards_start_game@2x.png",
+			"type": "image",
+			"name": "btn_show_cards_start_game@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Button/btn_show_cards_start_game_on@2x.png",
+			"type": "image",
+			"name": "btn_show_cards_start_game_on@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Button/btn_start_game@2x.png",
+			"type": "image",
+			"name": "btn_start_game@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Button/btn_start_game_on@2x.png",
+			"type": "image",
+			"name": "btn_start_game_on@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Button/btn_yao_bu_qi@2x.png",
+			"type": "image",
+			"name": "btn_yao_bu_qi@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Button/btn_yao_bu_qi_on@2x.png",
+			"type": "image",
+			"name": "btn_yao_bu_qi_on@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/bg_play_game@2x.jpg",
+			"type": "image",
+			"name": "bg_play_game@2x_jpg"
+		},
+		{
+			"url": "assets/Settings/img_settings_switch_off@2x.png",
+			"type": "image",
+			"name": "img_settings_switch_off@2x_png"
+		},
+		{
+			"url": "assets/Settings/img_settings_switch_on@2x.png",
+			"type": "image",
+			"name": "img_settings_switch_on@2x_png"
+		},
+		{
+			"url": "assets/Settings/bg_settings@2x.png",
+			"type": "image",
+			"name": "bg_settings@2x_png"
+		},
+		{
+			"url": "assets/Common/Alert/bg_popup_alert@2x.png",
+			"type": "image",
+			"name": "bg_popup_alert@2x_png"
+		},
+		{
+			"url": "assets/Common/Alert/btn_alert_cancel@2x.png",
+			"type": "image",
+			"name": "btn_alert_cancel@2x_png"
+		},
+		{
+			"url": "assets/Common/Alert/btn_alert_cancel_on@2x.png",
+			"type": "image",
+			"name": "btn_alert_cancel_on@2x_png"
+		},
+		{
+			"url": "assets/Common/Alert/btn_alert_ok@2x.png",
+			"type": "image",
+			"name": "btn_alert_ok@2x_png"
+		},
+		{
+			"url": "assets/Common/Alert/btn_alert_ok_on@2x.png",
+			"type": "image",
+			"name": "btn_alert_ok_on@2x_png"
+		},
+		{
+			"url": "assets/Common/Alert/btn_alert_quit@2x.png",
+			"type": "image",
+			"name": "btn_alert_quit@2x_png"
+		},
+		{
+			"url": "assets/Common/Alert/btn_alert_quit_on@2x.png",
+			"type": "image",
+			"name": "btn_alert_quit_on@2x_png"
+		},
+		{
+			"url": "assets/Common/Loading/img_loading_circle@2x.png",
+			"type": "image",
+			"name": "img_loading_circle@2x_png"
+		},
+		{
+			"url": "assets/Common/Loading/img_loading_spade@2x.png",
+			"type": "image",
+			"name": "img_loading_spade@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Player/img_add_times@2x.png",
+			"type": "image",
+			"name": "img_add_times@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Player/img_no_bigger_cards@2x.png",
+			"type": "image",
+			"name": "img_no_bigger_cards@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Player/img_not_add_times@2x.png",
+			"type": "image",
+			"name": "img_not_add_times@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Player/img_not_call_landlord@2x.png",
+			"type": "image",
+			"name": "img_not_call_landlord@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Player/img_not_play@2x.png",
+			"type": "image",
+			"name": "img_not_play@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Player/img_one_point@2x.png",
+			"type": "image",
+			"name": "img_one_point@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Player/img_three_point@2x.png",
+			"type": "image",
+			"name": "img_three_point@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Player/img_two_point@2x.png",
+			"type": "image",
+			"name": "img_two_point@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/MatchPlayer/img_wait_for_starting.png",
+			"type": "image",
+			"name": "img_wait_for_starting_png"
+		},
+		{
+			"url": "assets/PlayGame/Button/btn_not_call_landlord_on@2x.png",
+			"type": "image",
+			"name": "btn_not_call_landlord_on@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Button/btn_invite_on@2x.png",
+			"type": "image",
+			"name": "btn_invite_on@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Button/btn_invite@2x.png",
+			"type": "image",
+			"name": "btn_invite@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Button/btn_continue_game_on@2x.png",
+			"type": "image",
+			"name": "btn_continue_game_on@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Button/btn_continue_game@2x.png",
+			"type": "image",
+			"name": "btn_continue_game@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/InvitePlayer/bg_invite_player@2x.png",
+			"type": "image",
+			"name": "bg_invite_player@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/InvitePlayer/btn_invite_player_to_wechat@2x.png",
+			"type": "image",
+			"name": "btn_invite_player_to_wechat@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/InvitePlayer/image_copy_complete@2x.png",
+			"type": "image",
+			"name": "image_copy_complete@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Player/Character/img_game_default_avatar@2x.png",
+			"type": "image",
+			"name": "img_game_default_avatar@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Player/Character/img_room_hat@2x.png",
+			"type": "image",
+			"name": "img_room_hat@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/img_active_player_sign@2x.png",
+			"type": "image",
+			"name": "img_active_player_sign@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/btn_continue@2x.png",
+			"type": "image",
+			"name": "btn_continue@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/InvitePlayer/btn_invite_player_to_qq@2x.png",
+			"type": "image",
+			"name": "btn_invite_player_to_qq@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Poker/played_pokers.json",
+			"type": "sheet",
+			"name": "played_pokers_json",
+			"subkeys": "img_played_card_landlord_sign@2x_png,played_poker_2c@2x_png,played_poker_2d@2x_png,played_poker_2h@2x_png,played_poker_2s@2x_png,played_poker_3c@2x_png,played_poker_3d@2x_png,played_poker_3h@2x_png,played_poker_3s@2x_png,played_poker_4c@2x_png,played_poker_4d@2x_png,played_poker_4h@2x_png,played_poker_4s@2x_png,played_poker_5c@2x_png,played_poker_5d@2x_png,played_poker_5h@2x_png,played_poker_5s@2x_png,played_poker_6c@2x_png,played_poker_6d@2x_png,played_poker_6h@2x_png,played_poker_6s@2x_png,played_poker_7c@2x_png,played_poker_7d@2x_png,played_poker_7h@2x_png,played_poker_7s@2x_png,played_poker_8c@2x_png,played_poker_8d@2x_png,played_poker_8h@2x_png,played_poker_8s@2x_png,played_poker_9c@2x_png,played_poker_9d@2x_png,played_poker_9h@2x_png,played_poker_9s@2x_png,played_poker_ac@2x_png,played_poker_ad@2x_png,played_poker_ah@2x_png,played_poker_as@2x_png,played_poker_bw@2x_png,played_poker_jc@2x_png,played_poker_jd@2x_png,played_poker_jh@2x_png,played_poker_js@2x_png,played_poker_kc@2x_png,played_poker_kd@2x_png,played_poker_kh@2x_png,played_poker_ks@2x_png,played_poker_qc@2x_png,played_poker_qd@2x_png,played_poker_qh@2x_png,played_poker_qs@2x_png,played_poker_rw@2x_png,played_poker_tc@2x_png,played_poker_td@2x_png,played_poker_th@2x_png,played_poker_ts@2x_png"
+		},
+		{
+			"url": "assets/PlayGame/Poker/pockers.json",
+			"type": "sheet",
+			"name": "pockers_json",
+			"subkeys": "img_hand_card_landlord_sign@2x_png,poker_2c@2x_png,poker_2d@2x_png,poker_2h@2x_png,poker_2s@2x_png,poker_3c@2x_png,poker_3d@2x_png,poker_3h@2x_png,poker_3s@2x_png,poker_4c@2x_png,poker_4d@2x_png,poker_4h@2x_png,poker_4s@2x_png,poker_5c@2x_png,poker_5d@2x_png,poker_5h@2x_png,poker_5s@2x_png,poker_6c@2x_png,poker_6d@2x_png,poker_6h@2x_png,poker_6s@2x_png,poker_7c@2x_png,poker_7d@2x_png,poker_7h@2x_png,poker_7s@2x_png,poker_8c@2x_png,poker_8d@2x_png,poker_8h@2x_png,poker_8s@2x_png,poker_9c@2x_png,poker_9d@2x_png,poker_9h@2x_png,poker_9s@2x_png,poker_ac@2x_png,poker_ad@2x_png,poker_ah@2x_png,poker_as@2x_png,poker_back@2x_png,poker_bw@2x_png,poker_jc@2x_png,poker_jd@2x_png,poker_jh@2x_png,poker_js@2x_png,poker_kc@2x_png,poker_kd@2x_png,poker_kh@2x_png,poker_ks@2x_png,poker_qc@2x_png,poker_qd@2x_png,poker_qh@2x_png,poker_qs@2x_png,poker_rw@2x_png,poker_tc@2x_png,poker_td@2x_png,poker_th@2x_png,poker_ts@2x_png"
+		}
+	]
+}
