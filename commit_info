@@ -1,1 +1,1 @@
-1810301846 79750fd 修复俱乐部房间进入游戏后未显示房间内玩家问题
+1811021256 be76176 Bugfix/fix others players state wrong at beginning (#807) * 修复断开网后不能获取玩家状态问题
